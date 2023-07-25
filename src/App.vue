@@ -5,7 +5,7 @@
 useHead({
   title: 'Ururu',
   meta: [
-    { name: 'description', content: 'Opinionated Vite Starter Template' },
+    { name: 'description', content: 'Aulia Akkbar Personal Website' },
   ],
   link: [
     {
