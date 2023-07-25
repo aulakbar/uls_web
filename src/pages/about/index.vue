@@ -144,10 +144,10 @@ const tech: technology[] = [
         </div>
         <div class="md:w-7/12">
           <p class="fadein-left fadeins-1 mb-3 text-[#716040] md:mb-7">
-            &nbsp;Hi everyone! My name is AULIA AKBAR.
+            Hi everyone! My name is AULIA AKBAR.
           </p>
           <p class="fadein-left fadeins-2 mb-3 text-[#716040]">
-            &nbsp;I am a seasoned technical support professional with extensive expertise in the electrical (weak current) industries.
+            I am a seasoned technical support professional with extensive expertise in the electrical (weak current) industries.
             Throughout my career, I have consistently taken the lead in resolving diverse and complex cases.
             Currently, I am pursuing a degree in Computer Science at the university, with a specific focus on Cyber Security.
             I actively engage in activities like CTF (Catch The Flag) challenges and other relevant pursuits, as part of my dedication to becoming a proficient Security Professional.
