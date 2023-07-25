@@ -144,11 +144,7 @@ const tech: technology[] = [
         </div>
         <div class="md:w-7/12">
           <p class="fadein-left fadeins-1 mb-3 text-[#716040] md:mb-7">
-            &nbsp; &nbsp; &nbsp; Hi everyone! My name is Bagas Rakha Putra. I'm a web developer from Bogor, West Java. I
-            have 1 year of experience in back-end web development.
-            I really enjoy what I do right now, in my opinion, creating programs is not just a job, but also an art that
-            has
-            aesthetic value
+            &nbsp;Hi everyone! My name is AULIA AKBAR.
           </p>
           <p class="fadein-left fadeins-2 mb-3 text-[#716040]">
             &nbsp;I am a seasoned technical support professional with extensive expertise in the electrical (weak current) industries.
