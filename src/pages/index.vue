@@ -46,11 +46,11 @@ watch(loopNum, () => {
     class="max-h-auto min-h-[65vh] flex flex-col-reverse items-center gap-8 md:mt-30 md:max-h-screen md:min-h-[80vh] md:flex-row md:justify-center md:gap-16"
   >
     <div class="px-10 text-center space-y-2 md:text-left">
-      <p class="text-size-6 text-#33272a">
+      <p class="text-size-6 text-#33272a"> ghjgjgjg
         Hello, I'm
       </p>
       <h1 class="fadein-up text-4xl font-bold text-#33272a md:text-5xl">
-        AULIA AKBAR
+        AULIA Rahman
       </h1>
       <div class="py-2">
         <h1
